@@ -10,7 +10,7 @@ I'm a United States Marine lost in the world of code and all of its wonders, my 
 
 <details>
 
-## <summary>My Career Path</summary>
+<summary>My Career Path</summary>
 
 ### The Path 
 
