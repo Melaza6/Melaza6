@@ -28,4 +28,14 @@
 * Presql
 
 </details>
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+<details>
+  
+<summary>🗣️ Contact Me </summary>
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leopoldo-cuero-0650a8202/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Melaza6)
+  
+</details>
+
