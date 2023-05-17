@@ -18,7 +18,7 @@
 
 <summary>Programing Lenguages</summary>
 
-### The Path 
+### Lenguages 
 
 * JavaScript
 * HTML
