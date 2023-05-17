@@ -6,26 +6,26 @@
 
 ## About me
 
-I'm a United States Marine lost in the world of code and all of its wonders, my coding journey begins the first time saw a computer back in the early 90's, I was onlyh a chilld then but seeing an object [:computer:] showing a list of strings in a arrays running a the "speed of light" was facinating, then being able to stored it in a safe enviroment was the icing on the cake.....
+- 🪖 I'm a United States Marine Veteran with 2 decades of experience within the U. S. Goverment. 
+
+- 🥞 FullStack Web Develover
+
+- 🏀 sports are my passioing 
+
+
 
 <details>
 
-<summary>My Career Path</summary>
+<summary>Programing Lenguages</summary>
 
 ### The Path 
 
-* Sears
-* U.S. Marine Corp
-* IRS
-* LEARN
-* Intership
+* JavaScript
+* HTML
+* Ruby
+* Ruby on Rails
+* React
+* Rspect
+* Presql
 
 </details>
-
-```mermaid
-graph TD;
-    L-->E;
-    A-->R;
-    R-->N;
-    E-->A;
-```
